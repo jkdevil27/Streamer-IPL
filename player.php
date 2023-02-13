@@ -14,7 +14,7 @@
 <div id="vid"></div>
 <script>
  player = new Clappr.Player({
-  source: 'https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8',
+  source: 'https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/bdruAYBMgXUmWNYJE_avWiCVQINFrk25GyPFOMMLUi8fq-HcCzkJ44s1NVtUjW0ooBPrUrGZRV7WCf1W8aF7Dg/non_transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/tw_master_dynamic_highlatency.m3u8?type=live',
   mimeType: "application/vnd.apple.mpegurl",
  autoPlay: true, 
  height: "100%",
